@@ -40,9 +40,9 @@ To run this project, ensure you have the following dependencies installed. See [
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vgg16-image-classification.git
+   git clone https://github.com/PrabhakaranVijay/VGGNet-16.git
    cd vgg16-image-classification
-
+   
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
