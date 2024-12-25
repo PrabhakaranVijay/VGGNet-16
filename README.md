@@ -41,7 +41,7 @@ To run this project, ensure you have the following dependencies installed. See [
 1. Clone the repository:
    ```bash
    git clone https://github.com/PrabhakaranVijay/VGGNet-16.git
-   cd vgg16-image-classification
+   cd VGGNet-16
    
 2. Install dependencies:
     ```bash
